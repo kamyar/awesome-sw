@@ -27,7 +27,7 @@ Awesome list of talks, articles and documentation for software engineering resou
 
 - Python
   - Django  
-    [Must Watch List](https://gitlab.com/rosarior/django-must-watch)
+    - [Must Watch List](https://gitlab.com/rosarior/django-must-watch)
   - [WebSocket Resources](http://www.mattmakai.com/websockets-python-resources.html)
 - [In-depth HTTP Tutorial](http://www.tutorialspoint.com/http/index.htm)
 
