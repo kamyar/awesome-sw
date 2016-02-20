@@ -21,7 +21,8 @@ Awesome list of talks, articles and documentation for software engineering resou
   - [Urwid - CUI library](https://github.com/urwid/urwid)
   - Notable Talks
     - [WebSockets in Python by Matt Makai(Live coding)](https://www.youtube.com/watch?v=L5YQbNrFfyw)
-    - [Beyond PEP 8)](https://www.youtube.com/watch?v=wf-BqAjZb8M)
+    - [Beyond PEP 8](https://www.youtube.com/watch?v=wf-BqAjZb8M)
+    - [Discovering Python](https://www.youtube.com/watch?v=RZ4Sn-Y7AP8)
  
 ## Web
 
