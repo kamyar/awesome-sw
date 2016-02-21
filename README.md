@@ -23,6 +23,7 @@ Awesome list of talks, articles and documentation for software engineering resou
     - [WebSockets in Python by Matt Makai(Live coding)](https://www.youtube.com/watch?v=L5YQbNrFfyw)
     - [Beyond PEP 8](https://www.youtube.com/watch?v=wf-BqAjZb8M)
     - [Discovering Python](https://www.youtube.com/watch?v=RZ4Sn-Y7AP8)
+    - [Bleding Edge of Python Generators](https://www.youtube.com/watch?v=5-qadlG7tWo)
  
 ## Web
 
@@ -45,6 +46,8 @@ Awesome list of talks, articles and documentation for software engineering resou
 - [Hight Scalability Blog](http://highscalability.com/)
     - [All Time Favorites](http://highscalability.com/)
 - [List Of NoSQL Databases and Characteristics](http://nosql-database.org/)
+- [Miguel Grinberg (Web, Flask, socket.io)](http://blog.miguelgrinberg.com/)
+- [Matt Makai   (General Python)](http://www.mattmakai.com/)
 
 ## Awesome Lists
 
