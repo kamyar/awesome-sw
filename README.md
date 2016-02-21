@@ -5,10 +5,11 @@ Awesome list of talks, articles and documentation for software engineering resou
 
 ## Table of Contents
 
-- [Programming Langugaes](#programing-languages)
+- [Programming Langugaes](#programming-languages)
 - [Web](#web)
 - [DevOps](#devops)
 - [IOT](#iot)
+- [Podcasts](#podcasts)
 - [Misc](#misc)
 - [Awesome Lists](#awesome-lists)
 - [License](#license)
@@ -41,13 +42,20 @@ Awesome list of talks, articles and documentation for software engineering resou
 <!-- ## IOT
 - []()
  -->
+## Podcasts
+- [Talk Python To Me](https://talkpython.fm/)
+- [Podcast.__init__](http://pythonpodcast.com/)
+- [Python Test Podcast](http://pythontesting.net/category/podcast/)
+
+
 ## Misc
 
 - [Hight Scalability Blog](http://highscalability.com/)
     - [All Time Favorites](http://highscalability.com/)
 - [List Of NoSQL Databases and Characteristics](http://nosql-database.org/)
 - [Miguel Grinberg (Web, Flask, socket.io)](http://blog.miguelgrinberg.com/)
-- [Matt Makai   (General Python)](http://www.mattmakai.com/)
+- [Matt Makai (General Python)](http://www.mattmakai.com/)
+- [Brett Cannon (Python Core Dev)](http://www.snarky.ca/)
 
 ## Awesome Lists
 
