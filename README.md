@@ -18,8 +18,11 @@ Awesome list of talks, articles and documentation for software engineering resou
 ## Programming Langugaes
 
 - Python
-  - [FullStack Python Blog](http://www.fullstackpython.com/)
   - [Urwid - CUI library](https://github.com/urwid/urwid)
+  - Blogs
+    - [FullStack Python Blog](http://www.fullstackpython.com/)
+    - [Sedimental(Mahmoud Hashemi, Enterprise Python)](http://sedimental.org/)
+    - [PythonDoesWhat?](http://www.pythondoeswhat.com/)
   - Notable Talks
     - [WebSockets in Python by Matt Makai(Live coding)](https://www.youtube.com/watch?v=L5YQbNrFfyw)
     - [Beyond PEP 8](https://www.youtube.com/watch?v=wf-BqAjZb8M)
