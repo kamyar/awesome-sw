@@ -60,6 +60,23 @@ Awesome list of talks, articles and documentation for software engineering resou
 - [Matt Makai (General Python)](http://www.mattmakai.com/)
 - [Brett Cannon (Python Core Dev)](http://www.snarky.ca/)
 
+## Pending Articles
+- [Deploying Django with Gunicorn and Supervisor](https://samoylov.tech/2016/08/31/deploying-django-with-gunicorn-and-supervisor/).
+- [How to Think Like a Computer Scientist: Interactive Edition](http://interactivepython.org/runestone/static/thinkcspy/index.html)
+- [Python asyncio cheatsheet](https://www.pythonsheets.com/notes/python-asyncio.html)
+- [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out)
+- [The State of Python (3 & 2)](http://docs.python-guide.org/en/latest/starting/which-python/)
+- [CPython memory management](https://medium.com/python-pandemonium/cpython-memory-management-479e6cd86c9#.yiguz1c5c)
+- [Upgrading Django](http://thosecleverkids.com/thoughts/posts/upgrading-django)
+- [AsyncIO for the Working Python Developer](https://hackernoon.com/asyncio-for-the-working-python-developer-5c468e6e2e8e#.nezhy4zva)
+- [Solid Python Deployments for Everybody](https://hynek.me/talks/python-deployments/)
+- [How To Serve Flask Applications with Gunicorn and Nginx on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-gunicorn-and-nginx-on-ubuntu-14-04)
+- [How Does Attribute Access Work?](https://medium.com/stepping-through-the-cpython-interpreter/how-does-attribute-access-work-d19371898fee#.e420gzwwe)
+- [Async Python: The Different Forms of Concurrency](http://masnun.rocks/2016/10/06/async-python-the-different-forms-of-concurrency/)
+- [Improve your testing with Pytest and Mock - PyCon SG 2015](https://www.youtube.com/watch?v=RcN26hznmk4)
+- [Understanding Python metaclasses](https://blog.ionelmc.ro/2015/02/09/understanding-python-metaclasses/)
+- [Python Asynchronous I/O Walkthrough](http://pgbovine.net/python-async-io-walkthrough.htm)
+
 ## Awesome Lists
 
 - [Awesome Lists Main](https://github.com/sindresorhus/awesome)
